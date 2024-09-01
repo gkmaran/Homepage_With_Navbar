@@ -1,0 +1,60 @@
+body{
+   background-image: url(img3.jpg);
+   background-size: cover;
+   background-position: center;
+   width: 100vw;
+   height: 100vh;
+   color: white;
+   font-family: "Open Sans", sans-serif;
+}
+.title{
+   background-color: rgb(37, 36, 36);
+   height: 12vh;
+   border-top: 3px solid rgb(111, 110, 110);
+}
+.title h2{
+   font-size: 35px;
+   padding: 12px;
+   margin-left: 20px;
+}
+.nav-bar a{
+   text-decoration: none;
+   color: white;
+   font-size: 20px;
+   margin-right: 40px;
+   font-weight: 580;
+}
+.nav-bar{
+  position: absolute;
+  top: 30px;
+  margin-left: 58rem;
+}
+.content-wrapper{
+   text-align: center;
+   margin-top: 10rem;
+}
+.content-wrapper p{
+   font-size: 3.9rem;
+   font-weight: 700;
+   padding: 20px;
+}
+.button1{
+   background-color: transparent;
+   color: white;
+   font-size: 20px;
+   margin-left: 25px;
+   padding:10px 30px 10px 30px;
+   border-radius: 5px;
+   font-weight: 600;
+   border-color: white;
+   border: solid;
+}
+.button2{
+   color: black;
+   font-size: 20px;
+   margin-left: 25px;
+   padding:14px 35px 14px 35px;
+   border: none;
+   border-radius: 5px;
+   font-weight: 600;
+}
